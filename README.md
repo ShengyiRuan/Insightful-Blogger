@@ -19,9 +19,3 @@ Connection string;
 * Get-Migration
 * Remove-Migration -Force
 
-
-
-# Resources
-
-1. [Sameer Saini](https://www.youtube.com/@SameerSaini)
-2. [Patrick God](https://www.youtube.com/@PatrickGod)
